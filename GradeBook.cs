@@ -20,7 +20,7 @@ namespace GradeBook
                 Console.WriteLine("2.Remove student");
                 Console.WriteLine("3.Show info about");
                 Console.WriteLine("4.Save & exit");
-                Console.Write(": ");
+                Console.Write(":");
                 input = Convert.ToInt32(Console.ReadLine());
                 switch (input)
                 {
@@ -29,6 +29,15 @@ namespace GradeBook
                         break;
                     case 3:
                         manageStudent.showInfo();
+                        break;
+                    case 4:
+                        Console.Write("Saving...");
+                        //Saving
+                        Console.WriteLine("done");
+                        endProgram = true;
+                        break;
+                    default:
+                        Console.WriteLine("Undefined option");
                         break;
                 }
             }

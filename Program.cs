@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            GradeBook.start(); //Starting our app
+            //Setting parameter
+            Console.ForegroundColor = ConsoleColor.White;
+            //Starting our app
+            GradeBook.start();
         }
     }
 }

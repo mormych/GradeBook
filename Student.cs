@@ -47,5 +47,20 @@ namespace GradeBook
         {
             grades.Add(grade);
         }
+
+        public void setName(string name)
+        {
+            this.name = name;
+        }
+
+        public void setSurname(string surname)
+        {
+            this.surname = surname;
+        }
+
+        public void setAge(int age)
+        {
+            this.age = age;
+        }
     }
 }
