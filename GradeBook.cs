@@ -27,6 +27,9 @@ namespace GradeBook
                     case 1:
                         manageStudent.addStudent();
                         break;
+                    case 2:
+                        manageStudent.RemoveStudent();
+                        break;
                     case 3:
                         manageStudent.showInfo();
                         break;

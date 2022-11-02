@@ -32,6 +32,24 @@ namespace GradeBook
             return 0;
         }
 
+        public void RemoveStudent()
+        {
+            if (studentList.Count == 0)
+            {
+                Messages.errorMessage("Empty student list");
+                return;
+            }
+            for (int i = 0; i < studentList.Count; i++)
+            {
+                Console.WriteLine(i + 1 + ". " + studentList[i].getName());
+            }
+
+            Console.WriteLine("Which student? (1 - " + studentList.Count() + ")");
+            int id = Convert.ToInt32(Console.ReadLine());
+            studentList.Remove(studentList[id - 1]);
+            Console.WriteLine("done");
+        }
+
         public void showInfo()
         {
             if(studentList.Count == 0)

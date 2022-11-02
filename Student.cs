@@ -62,5 +62,11 @@ namespace GradeBook
         {
             this.age = age;
         }
+
+
+        public override string ToString()
+        {
+            return ("student name: " + name + " surname: " + surname + " age:  " + age);
+        }
     }
 }
