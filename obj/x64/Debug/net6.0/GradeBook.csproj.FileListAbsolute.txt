@@ -13,3 +13,13 @@ C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\obj\x64\De
 C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\obj\x64\Debug\net6.0\GradeBook.pdb
 C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\obj\x64\Debug\net6.0\GradeBook.genruntimeconfig.cache
 C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\obj\x64\Debug\net6.0\ref\GradeBook.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\PdfSharp.Charting.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\PdfSharp.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\de\PdfSharp.resources.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\bin\x64\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Michal\Desktop\Projekty csharp\GradeBook\GradeBook\GradeBook\obj\x64\Debug\net6.0\GradeBook.csproj.CopyComplete

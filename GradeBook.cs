@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GradeBook.pdf;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -36,6 +37,8 @@ namespace GradeBook
                     case 4:
                         Console.Write("Saving...");
                         //Saving
+                        PDFCreator myPDF = new PDFCreator("HelloPDF.pdf");
+                        myPDF.CreateDeafaultDocument();
                         Console.WriteLine("done");
                         endProgram = true;
                         break;
